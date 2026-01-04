@@ -1,0 +1,624 @@
+<!--
+Version 0.2 , 12/30/2025
+ /$$$$$$$$  /$$$$$$       /$$$$$$$$ /$$                                                  /$$$$$$  /$$   /$$ /$$$$$$$$  /$$$$$$       
+| $$_____/ /$$__  $$     |__  $$__/| $$                                                 /$$__  $$| $$$ | $$| $$_____/ /$$__  $$      
+| $$      | $$  \__/        | $$   | $$$$$$$   /$$$$$$  /$$$$$$/$$$$   /$$$$$$         | $$  \__/| $$$$| $$| $$      | $$  \__/      
+| $$$$$   |  $$$$$$  /$$$$$$| $$   | $$__  $$ /$$__  $$| $$_  $$_  $$ /$$__  $$ /$$$$$$|  $$$$$$ | $$ $$ $$| $$$$$   |  $$$$$$       
+| $$__/    \____  $$|______/| $$   | $$  \ $$| $$$$$$$$| $$ \ $$ \ $$| $$$$$$$$|______/ \____  $$| $$  $$$$| $$__/    \____  $$      
+| $$       /$$  \ $$        | $$   | $$  | $$| $$_____/| $$ | $$ | $$| $$_____/         /$$  \ $$| $$\  $$$| $$       /$$  \ $$      
+| $$$$$$$$|  $$$$$$/        | $$   | $$  | $$|  $$$$$$$| $$ | $$ | $$|  $$$$$$$        |  $$$$$$/| $$ \  $$| $$$$$$$$|  $$$$$$/      
+|________/ \______/         |__/   |__/  |__/ \_______/|__/ |__/ |__/ \_______/         \______/ |__/  \__/|________/ \______/       
+                                                                                                                                     
+                                                                                                                                     
+                                                                                                                                     
+ /$$$$$$$  /$$     /$$                                                                                                               
+| $$__  $$|  $$   /$$/                                                                                                               
+| $$  \ $$ \  $$ /$$/                                                                                                                
+| $$$$$$$   \  $$$$/                                                                                                                 
+| $$__  $$   \  $$/                                                                                                                  
+| $$  \ $$    | $$                                                                                                                   
+| $$$$$$$/    | $$                                                                                                                   
+|_______/     |__/                                                                                                                   
+                                                                                                                                     
+                                                                                                                                     
+                                                                                                                                     
+ /$$   /$$  /$$$$$$  /$$$$$$$$  /$$$$$$                                                                                              
+| $$$ | $$ /$$__  $$| $$_____/ /$$__  $$                                                                                             
+| $$$$| $$| $$  \__/| $$      | $$  \ $$                                                                                             
+| $$ $$ $$| $$ /$$$$| $$$$$   | $$  | $$                                                                                             
+| $$  $$$$| $$|_  $$| $$__/   | $$  | $$                                                                                             
+| $$\  $$$| $$  \ $$| $$      | $$  | $$                                                                                             
+| $$ \  $$|  $$$$$$/| $$$$$$$$|  $$$$$$/                                                                                             
+|__/  \__/ \______/ |________/ \______/                                                                                              
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
+-->
+<theme>
+<formatVersion>4</formatVersion>
+<include subset="iconset" name="Default">./_inc/iconsets/default.xml</include>
+
+<feature supported="carousel">   
+   <view name="system"> 	  
+<carousel name="systemcarousel">
+	<type>horizontal</type>
+	<pos>0 -0.18</pos>
+	<size>1 1</size>
+	<logoScale>1.0</logoScale>
+	<logoSize>0.45 0.45</logoSize>
+	<color>00000000</color>
+	<maxLogoCount>4</maxLogoCount>
+	<logoAlignment>bottom</logoAlignment>
+		<itemTemplate>
+			<container>
+				<image name="logoCover" pos="0.5" origin="0.5" maxSize="1" linearSmooth="false">
+					<path>./_inc/ui/frame.png</path>
+				</image>
+				<image name="logoImage" pos="0.5" origin="0.5" maxSize="0.45" linearSmooth="false">
+					<path>{system:logo}</path>
+				</image>
+				<text name="logoTextAlt" color="white" alignment="center" multiLine="true">
+					<pos>0.19 0</pos>
+					<size>0.625 1</size>
+					<visible>!exists({system:logo})</visible>
+					<text>{system:fullName}</text>
+					<fontSize>0.024</fontSize>
+					<fontPath>./resources/fonts/OpenSans-Regular.ttf</fontPath>
+					<color>white</color>
+					<forceUppercase>false</forceUppercase>
+					<lineSpacing>1.2</lineSpacing>
+					<padding>0.1 0 0.1 0</padding>
+				</text>
+			</container>
+		</itemTemplate>
+ </carousel>
+	  
+<image name="logo" extra="true">
+    <origin>0.5 0.5</origin>
+    <pos>0.5 0.55</pos>
+    <maxsize>0.45</maxsize>
+    <path>./logos/${system.theme}.png</path>
+	<zIndex>55</zIndex>
+</image>
+
+<image name="logo" extra="true" region="us">
+	<path>./logos/${system.theme}.png</path>
+ </image>
+			
+<image name="logo" extra="true" region="jp">
+	<path>./logos/jp/${system.theme}.png</path>
+ </image>
+ 
+<image name="layer3" extra="true">
+    <origin>0.5 0.5</origin>
+    <pos>0.5 0.55</pos>
+    <maxsize>0.45</maxsize>
+    <size>0.23 0.45</size>
+    <path>./_inc/ui/glow.png</path>
+	<zIndex>50</zIndex>
+
+    <storyboard>
+        <animation property="opacity" from="0" to="1" duration="2000" mode="easeOut" />
+        <animation property="scale" from="1" to="1.02" duration="1200" mode="easeInOut" repeat="true" autoreverse="true" />
+    </storyboard>
+</image>
+
+	     <text name="logoTextAlt" extra="true">    
+	     <text>{system:fullName}</text>
+         <pos>0.160 0.203</pos>
+         <color>e1e1e1</color>
+         <fontPath>./_inc/fonts/NESCyrillic.ttf</fontPath>
+	     <fontSize>0.04</fontSize>
+		 <forceUppercase>0</forceUppercase>
+		 <glowColor>000000</glowColor>
+         <glowSize>1</glowSize>
+         <glowOffset>1</glowOffset>
+         <zIndex>45</zIndex>	 
+      </text>
+
+      <text name="systemInfo">    
+         <pos>0.29 0.192</pos>
+         <color>e1e1e1</color>
+         <fontPath>./_inc/fonts/NESCyrillic.ttf</fontPath>
+	     <fontSize>0.04</fontSize>
+		 <forceUppercase>0</forceUppercase>
+		 <glowColor>000000</glowColor>
+         <glowSize>1</glowSize>
+         <glowOffset>1</glowOffset>
+         <zIndex>45</zIndex>	     
+      </text>
+		 
+	<image name="layer" extra="true"> 
+		<origin>0 0</origin>
+		<pos>0 0.001</pos>         
+		<size>1 0.089</size>    
+		<zIndex>45</zIndex>
+		<path>./_inc/ui/top_frame.png</path>
+	</image>
+	  
+	  <image name="layer1" extra="true"> 
+			<size>1 0.156</size>  
+			<origin>0.5 0.5</origin>
+			<pos>0.5 0.92</pos>
+			<zIndex>50</zIndex>
+		  <path>./_inc/ui/bottom_frame.png</path>
+      </image>
+	  
+<image name="frame_flash" extra="true">
+    <origin>0.5 0.5</origin>
+    <pos>0.86 0.888</pos>
+    <size>0.033 0.019</size>
+    <path>./_inc/ui/button_glow.png</path>
+    <zIndex>55</zIndex>
+	    <storyboard>
+        <animation property="opacity"
+                   from="1"
+                   to="0.4"
+                   duration="500"
+                   mode="easeInOut"
+                   autoreverse="true"
+                   repeat="true" />
+
+        <animation property="color"
+                   from="FFFFFF"
+                   to="FF0000"
+                   duration="500"
+                   mode="easeInOut"
+                   autoreverse="true"
+                   repeat="true" />
+    </storyboard>
+</image>
+
+	  <image name="layer2" extra="true"> 
+          <origin>0 0</origin>
+          <pos>0.148 0.198</pos>
+          <size>0.7 0</size>
+		  <zIndex>3</zIndex>
+		  <path>./_inc/ui/box.png</path>
+      </image>
+
+	  <image name="logo2" extra="true">
+            <path>./logos2/$system.svg</path>
+			<pos>0.573 0.70</pos>
+            <maxSize>0.15 0.14</maxSize>
+            <origin>1 0.5</origin>
+			<zIndex>50</zIndex>
+      </image>
+
+      <image name="logo2" extra="true" region="jp">
+		 <path>./logos2/jp/$system.svg</path>
+	  </image>
+	  
+	  <image name="logo2" extra="true" region="us">
+		 <path>./logos2/us/$system.svg</path>
+	  </image>
+	  
+	  	<image name="background" extra="true">
+		<origin>0.5 0.5</origin>
+        <pos>0.5 0.5</pos>
+        <size>1 1</size>
+        <zIndex>1</zIndex>
+		<path>./backgrounds/background.png</path>
+    <storyboard>
+        <animation property="scale" from="1" to="1.01" duration="3200" mode="easeInOut" repeat="true" autoreverse="true" />
+    </storyboard>
+	  </image>
+
+<image name="background_darkener" extra="true">
+    <origin>0.5 0.5</origin>
+    <pos>0.5 0.5</pos>
+    <size>1 1</size>
+    <path>./_inc/ui/black.png</path>
+    <color>00000088</color> 
+    <zIndex>2</zIndex>
+</image>
+
+   </view>
+</feature>   
+
+   <view name="system, menu, gameclip">
+      <helpsystem name="help">
+	     <origin>0.5 0</origin>
+		 <pos>0.55 0.95</pos>
+         <fontPath>./_inc/fonts/Minercraftory.ttf</fontPath>
+		 <fontSize>0.02</fontSize>
+		 <textColor>e1e1e1</textColor>
+		<glowColor>000000</glowColor>
+		<color>e1e1e1</color>
+		<glowSize>1</glowSize>
+		<glowOffset>1</glowOffset>
+      </helpsystem>
+   </view>
+   
+    <view name="detailed">
+      <helpsystem name="help">
+		 <origin>0.5 0</origin>
+         <fontPath>./_inc/fonts/Minercraftory.ttf</fontPath>
+		 <fontSize>0.02</fontSize>
+		 <pos>0.55 0.95</pos>
+		 <textColor>e1e1e1</textColor>
+		<glowColor>000000</glowColor>
+		<color>e1e1e1</color>
+		<glowSize>1</glowSize>
+		<glowOffset>1</glowOffset>
+      </helpsystem>
+   </view>
+   
+    <view name="menu">
+      <menuText name="menufooter">
+		 <fontPath>./_inc/fonts/Minercraftory.ttf</fontPath>
+		 <fontSize>0.025</fontSize>
+		 <color>4E5750</color>
+	  </menuText>
+	  
+	  <menuText name="menutext"> 
+		 <fontPath>./_inc/fonts/Minercraftory.ttf</fontPath>
+		 <fontSize>0.03</fontSize>
+		 <color>4E5750</color>
+	 	 <separatorColor>4E5750</separatorColor>
+		 <selectorColor>A3A3A3</selectorColor>
+		 <selectedColor>FFFFFF</selectedColor>
+	  </menuText>
+	  
+	  <menuTextSmall name="menutextsmall">
+		 <fontPath>./_inc/fonts/NESCyrillic.ttf</fontPath>
+		 <color>4E5750</color>
+		 <fontSize>0.028</fontSize>
+	  </menuTextSmall>
+	  
+	  <menuText name="menutitle">
+		 <fontPath>./_inc/fonts/NESCyrillic.ttf</fontPath>
+		 <fontSize>0.04</fontSize>
+		 <color>4E5750</color>
+	  </menuText>
+	  
+	  <menuBackground name="menubg">
+		 <color>BEBCBE</color>
+	  </menuBackground>
+
+	  <menuIcons name="menuicons">
+         <iconKodi>./_inc/menu_icons/Kodi.png</iconKodi>
+         <iconSystem>./_inc/menu_icons/System.png</iconSystem>
+         <iconUpdates>./_inc/menu_icons/Updates.png</iconUpdates>
+         <iconGames>./_inc/menu_icons/Games.png</iconGames>
+         <iconControllers>./_inc/menu_icons/Controllers.png</iconControllers>
+         <iconUI>./_inc/menu_icons/UI.png</iconUI>
+         <iconSound>./_inc/menu_icons/Sound.png</iconSound>
+         <iconNetwork>./_inc/menu_icons/Network.png</iconNetwork>
+         <iconScraper>./_inc/menu_icons/Scraper.png</iconScraper>
+         <iconAdvanced>./_inc/menu_icons/Advanced.png</iconAdvanced>
+         <iconQuit>./_inc/menu_icons/Quit.png</iconQuit>
+         <iconRestart>./_inc/menu_icons/Restart.png</iconRestart>
+         <iconShutdown>./_inc/menu_icons/Shutdown.png</iconShutdown>
+         <iconFastShutdown>./_inc/menu_icons/Fastshutdown.png</iconFastShutdown>
+		 <iconLicense>./_inc/menu_icons/License.png</iconLicense>
+      </menuIcons>
+   </view>
+ 
+   <view name="detailed">  
+    <textlist name="gamelist">
+      <lines>10</lines>
+      <lines ifSubset="optimizesmallscreens:yes">12</lines>
+      <primaryColor>666666</primaryColor>
+      <secondaryColor>F0F0F0</secondaryColor>
+      <selectorColor>${centerFadeColor}</selectorColor>
+      <selectedColor>FFFFFFFF</selectedColor>
+      <extraTextColor>525252</extraTextColor>
+      <extraTextSelectedColor>A0A0A0</extraTextSelectedColor>
+      <forceUppercase>0</forceUppercase>
+      <pos>0.021 0.17</pos>
+      <size>0.3 0.73</size>
+      <alignment>left</alignment>
+      <horizontalMargin>0.00</horizontalMargin>
+      <fontPath>./_inc/fonts/NESCyrillic.ttf</fontPath>
+      <fontSize>0.01</fontSize>
+      <fontSize ifSubset="optimizesmallscreens:yes">0.0366</fontSize>
+      <scrollSound>./_inc/sounds/se_sys_cursor.wav</scrollSound>
+      <scrollbarColor>96969620</scrollbarColor>
+      <scrollbarCorner>0.49</scrollbarCorner>
+      <scrollbarSize>0.0065</scrollbarSize>
+      <scrollbarAlignment>outerleft</scrollbarAlignment>
+      <horizontalMargin>0.002</horizontalMargin>
+      <glowColor>000000A0</glowColor>
+      <glowSize ifArch="windows,x86,x86_64,odroidc4,odroidxu4">1</glowSize>
+    </textlist>
+
+		<image name="layer2" extra="true"> 
+          <origin>0 0</origin>
+          <pos>0.329 0.145</pos>
+          <size>0.275 0.430</size>
+		  <zIndex>45</zIndex>
+		  <path>./_inc/ui/vid_frame.png</path>
+      </image>
+   </view>
+   
+   <sound name="launch">
+			<path>./_inc/sounds/se_sys_click_game.wav</path>
+		</sound>
+
+   <view name="detailed">
+      <text name="md_lbl_rating, md_lbl_releasedate, md_lbl_developer, md_lbl_publisher, md_lbl_genre, md_lbl_lastplayed, md_lbl_playcount, md_rating, md_developer, md_publisher, md_genre, md_playcount, md_lastplayed">
+         <pos>1 1</pos>
+      </text>
+	  
+      <text name="md_description,md_lbl_players,md_players,md_genre,md_lbl_genre,md_releasedate,md_lbl_releasedate,md_lbl_developer,md_developer,md_lbl_favorite,md_favorite,md_folder_name">
+         <color>ffffff</color>
+         <fontPath>./_inc/fonts/NESCyrillic.ttf</fontPath>
+         <fontSize>0.050</fontSize>
+      </text> 
+	  
+	 <image name="description" extra="true">
+		<origin>0.5 0.5</origin>
+		<pos>0.665 0.75</pos>
+		<size>0.672 0.333</size>
+		<path>./_inc/ui/description_frame.png</path>
+		<zIndex>2</zIndex>
+	</image>
+
+      <rating name="md_rating">
+         <pos>0.498 0.602</pos>
+         <size>0.0259 0.0259</size>
+         <filledPath>./_inc/icons/star1.png</filledPath>
+         <unfilledPath>./_inc/icons/star0.png</unfilledPath>
+		 <zIndex>100</zIndex>
+      </rating> 
+	  
+	  <text name="md_lbl_rating">
+		<forceUppercase>1</forceUppercase>
+		<pos>0.41 0.60</pos>
+		<fontPath>./_inc/fonts/NESCyrillic.ttf</fontPath>
+		<fontSize>0.050</fontSize>
+		<size>0.15 0.02</size>
+		<alignment>left</alignment>
+		<glowColor>000000</glowColor>
+		<color>e1e1e1</color>
+		<glowSize>1</glowSize>
+		<glowOffset>1</glowOffset>
+      </text>
+	  
+      <text name="md_description">
+         <pos>0.37 0.657</pos>
+         <size>0.59 0.27</size>
+         <color>ffffff</color>
+         <fontSize>0.025</fontSize>         
+      </text>
+	  
+      <text name="md_lbl_players">
+	     <forceUppercase>1</forceUppercase>
+         <pos>0.41 0.52</pos>
+         <size>0.15 0.02</size>
+		 <alignment>left</alignment>
+      </text>
+	  
+      <text name="md_players">
+         <pos>0.41 0.545</pos>
+         <size>0.15 0.02</size>
+         <color>EBCA10</color>
+         <alignment>left</alignment>
+      </text>
+
+      <text name="md_lbl_genre">
+		 <forceUppercase>1</forceUppercase>
+         <pos>0.63 0.45</pos>
+         <size>0.15 0.02</size>
+		 <alignment>left</alignment>
+		 <glowColor>000000</glowColor>
+		 <color>e1e1e1</color>
+		 <glowSize>1</glowSize>
+		 <glowOffset>1</glowOffset>
+      </text>      
+
+      <text name="md_genre">
+         <pos>0.63 0.50</pos>
+         <size>0.20 0.02</size>
+         <color>EBCA10</color>
+         <alignment>left</alignment>         
+      </text>
+	  
+	    <text name="md_lbl_developer">
+	     <forceUppercase>1</forceUppercase>
+         <pos>0.63 0.30</pos>
+         <size>0.20 0.02</size>
+		 <alignment>left</alignment>
+		 <glowColor>000000</glowColor>
+		 <color>e1e1e1</color>
+		 <glowSize>1</glowSize>
+		 <glowOffset>1</glowOffset>
+      </text>
+	  
+      <text name="md_developer">
+         <pos>0.63 0.35</pos>
+         <size>0.12 0.02</size>
+		 <color>EBCA10</color>
+		 <alignment>left</alignment>
+      </text>
+
+	  <text name="md_lbl_favorite">
+         <pos>0.66 5</pos>
+         <size>0.15 0.02</size>
+		 <alignment>left</alignment>
+		</text>
+
+		<text name="md_favorite"> 
+		 <pos>0.66 5</pos> 
+         <size>0.15 0.02</size>
+		 <color>EBCA10</color>
+		 <alignment>left</alignment>
+		</text>
+		
+		 <text name="md_folder_name">
+	     <fontPath>./_inc/fonts/NESCyrillic.ttf</fontPath>
+		 <fontSize>0.025</fontSize>
+		 <forceUppercase>1</forceUppercase>
+        </text>
+	  
+      <text name="md_lbl_releasedate">
+	     <forceUppercase>1</forceUppercase>
+         <pos>0.63 0.15</pos>
+         <size>0.15 0.02</size> 
+         <alignment>left</alignment>
+		 <glowColor>000000</glowColor>
+		 <color>e1e1e1</color>
+		 <glowSize>1</glowSize>
+		 <glowOffset>1</glowOffset>
+      </text>
+	  
+      <datetime name="md_releasedate">
+         <pos>0.63 0.20</pos>
+         <size>0.15 0.02</size>
+         <color>EBCA10</color>
+         <alignment>left</alignment> 
+      </datetime>
+
+	  <image name="md_region1">
+            <pos>0.66 0.582</pos>
+            <size>0.025 0.025</size>
+        </image>
+		
+		<image name="md_region2">
+            <pos>0.69 0.582</pos>
+            <size>0.025 0.025</size>
+        </image>
+		
+		<image name="md_region3">
+            <pos>0.72 0.582</pos>
+            <size>0.025 0.025</size>
+        </image>
+		
+		<image name="md_region4">
+            <pos>0.75 0.582</pos>
+            <size>0.025 0.025</size>
+        </image>
+   </view>
+
+   <view name="detailed">
+	  	<image name="background" extra="true">
+		<origin>0.5 0.5</origin>
+        <pos>0.5 0.5</pos>
+        <size>1 1</size>
+        <zIndex>1</zIndex>
+		<path>./backgrounds/background.png</path>
+    <storyboard>
+        <animation property="scale" from="1" to="1.01" duration="3200" mode="easeInOut" repeat="true" autoreverse="true" />
+    </storyboard>
+	  </image>
+	   
+	<image name="layer" extra="true"> 
+		<origin>0 0</origin>
+		<pos>0 0.001</pos>         
+		<size>1 0.089</size>    
+		<zIndex>45</zIndex>
+		<path>./_inc/ui/top_frame.png</path>
+	</image>
+	  
+	  <image name="layer1" extra="true"> 
+			<size>1 0.156</size>  
+			<origin>0.5 0.5</origin>
+			<pos>0.5 0.92</pos>
+			<zIndex>50</zIndex>
+		  <path>./_inc/ui/bottom_frame.png</path>
+      </image>
+	  
+	  <image name="logo">
+          <origin>0 0</origin>
+          <pos>0.785 0.0148</pos>
+          <size>0.21 0.486</size>
+		  <zIndex>3</zIndex>
+      </image>
+	  
+	  <video name="md_video"> 
+         <origin>0 0</origin>
+         <pos>0.3555 0.182</pos>
+         <zIndex>50</zIndex>
+         <maxSize>0.225 0.2963</maxSize>
+      </video>
+	  
+        <image name="md_thumbnail" extra="true">
+            <origin>0 0</origin>
+            <pos>0.3555 0.182</pos>
+            <size>0.222 0.2963</size>
+            <zIndex>45</zIndex>
+        </image>
+   </view>
+   
+   <view name="gameclip">
+	  
+	  <image name="md_image">
+         <disabled>true</disabled> 
+      </image>
+	  		
+	  <video name="md_video">
+         <origin> 0.5 0.5</origin>
+		 <pos>0.5 0.5</pos>
+         <maxSize>1 1</maxSize>
+         <zIndex>30</zIndex>
+      </video>
+	 
+	  <text name="md_gameName">
+	        <forceUppercase>1</forceUppercase>
+            <fontSize>0.035</fontSize>
+            <size>0.39 0.05</size>
+            <color>ffffff</color>
+            <pos>0.015 0.84</pos>
+            <origin>0 0</origin>
+            <zIndex>50</zIndex>
+            <fontPath>./_inc/fonts/NESCyrillic.ttf</fontPath>
+            <forceUppercase>1</forceUppercase>
+            <alignment>left</alignment>
+	  </text>
+	  
+	  <text name="md_systemName">
+            <disabled>true</disabled>
+	  </text>
+	  
+	  <datetime name="md_releasedate">
+            <forceUppercase>1</forceUppercase>
+            <fontSize>0.2</fontSize>
+            <size>0.39 0.05</size>
+            <color>ffffff</color>
+            <pos>0.200 0.850</pos>
+            <origin>0 0</origin>
+            <zIndex>50</zIndex>
+            <fontPath>./_inc/fonts/04B_09_0.TTF</fontPath>
+            <forceUppercase>1</forceUppercase>
+            <alignment>left</alignment>
+      </datetime>
+	  
+	  <image name="favoriteIcon">
+          <pos>0.07 0.926</pos>
+      </image>
+   </view>
+</theme>
+
+<!--
+Version 0.2 , 12/30/2025
+ /$$$$$$$$  /$$$$$$       /$$$$$$$$ /$$                                                  /$$$$$$  /$$   /$$ /$$$$$$$$  /$$$$$$       
+| $$_____/ /$$__  $$     |__  $$__/| $$                                                 /$$__  $$| $$$ | $$| $$_____/ /$$__  $$      
+| $$      | $$  \__/        | $$   | $$$$$$$   /$$$$$$  /$$$$$$/$$$$   /$$$$$$         | $$  \__/| $$$$| $$| $$      | $$  \__/      
+| $$$$$   |  $$$$$$  /$$$$$$| $$   | $$__  $$ /$$__  $$| $$_  $$_  $$ /$$__  $$ /$$$$$$|  $$$$$$ | $$ $$ $$| $$$$$   |  $$$$$$       
+| $$__/    \____  $$|______/| $$   | $$  \ $$| $$$$$$$$| $$ \ $$ \ $$| $$$$$$$$|______/ \____  $$| $$  $$$$| $$__/    \____  $$      
+| $$       /$$  \ $$        | $$   | $$  | $$| $$_____/| $$ | $$ | $$| $$_____/         /$$  \ $$| $$\  $$$| $$       /$$  \ $$      
+| $$$$$$$$|  $$$$$$/        | $$   | $$  | $$|  $$$$$$$| $$ | $$ | $$|  $$$$$$$        |  $$$$$$/| $$ \  $$| $$$$$$$$|  $$$$$$/      
+|________/ \______/         |__/   |__/  |__/ \_______/|__/ |__/ |__/ \_______/         \______/ |__/  \__/|________/ \______/       
+                                                                                                                                     
+                                                                                                                                     
+                                                                                                                                     
+ /$$$$$$$  /$$     /$$                                                                                                               
+| $$__  $$|  $$   /$$/                                                                                                               
+| $$  \ $$ \  $$ /$$/                                                                                                                
+| $$$$$$$   \  $$$$/                                                                                                                 
+| $$__  $$   \  $$/                                                                                                                  
+| $$  \ $$    | $$                                                                                                                   
+| $$$$$$$/    | $$                                                                                                                   
+|_______/     |__/                                                                                                                   
+                                                                                                                                     
+                                                                                                                                     
+                                                                                                                                     
+ /$$   /$$  /$$$$$$  /$$$$$$$$  /$$$$$$                                                                                              
+| $$$ | $$ /$$__  $$| $$_____/ /$$__  $$                                                                                             
+| $$$$| $$| $$  \__/| $$      | $$  \ $$                                                                                             
+| $$ $$ $$| $$ /$$$$| $$$$$   | $$  | $$                                                                                             
+| $$  $$$$| $$|_  $$| $$__/   | $$  | $$                                                                                             
+| $$\  $$$| $$  \ $$| $$      | $$  | $$                                                                                             
+| $$ \  $$|  $$$$$$/| $$$$$$$$|  $$$$$$/                                                                                             
+|__/  \__/ \______/ |________/ \______/                                                                                              
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
+-->
