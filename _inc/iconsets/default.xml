@@ -1,0 +1,22 @@
+<theme>
+	<formatVersion>4</formatVersion>
+	
+	<view name="menu, system, basic, detailed, gameclip">
+		<helpsystem name="help">
+			     <origin>0.5 0</origin>
+			<iconColor>FFFFFF</iconColor>
+			<iconUpDown>./../controls/default/updown.png</iconUpDown>
+			<iconLeftRight>./../controls/default/leftright.png</iconLeftRight>
+			<iconUpDownLeftRight>./../controls/default/all.png</iconUpDownLeftRight>
+			<iconA>./../controls/default/a.png</iconA>
+			<iconB>./../controls/default/b.png</iconB>
+			<iconX>./../controls/default/x.png</iconX>
+			<iconY>./../controls/default/y.png</iconY>
+			<iconL>./../controls/default/l.png</iconL>
+			<iconR>./../controls/default/r.png</iconR>
+			<iconStart>./../controls/default/start.png</iconStart>
+			<iconSelect>./../controls/default/select.png</iconSelect>
+		</helpsystem>		
+	</view>
+	
+</theme>
