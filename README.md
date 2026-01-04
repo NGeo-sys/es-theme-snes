@@ -14,7 +14,7 @@ Screenshots
 
 -------------------------------------------------------------------------
 
-https://github.com/NGeo-sys/es-theme-snes/blob/main/screenshots/1.png
+<img src="https://github.com/NGeo-sys/es-theme-snes/blob/main/screenshots/1.png">
 
 https://github.com/NGeo-sys/es-theme-snes/blob/main/screenshots/2.png
 
