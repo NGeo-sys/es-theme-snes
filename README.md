@@ -10,9 +10,14 @@ Gamelist viewstytle    - Only Detailed so far ( will upade later )
 Region icons are available
 
 Screenshots 
+=======
+
+-------------------------------------------------------------------------
 
 https://github.com/NGeo-sys/es-theme-snes/blob/main/screenshots/1.png
+
 https://github.com/NGeo-sys/es-theme-snes/blob/main/screenshots/2.png
+
 https://github.com/NGeo-sys/es-theme-snes/blob/main/screenshots/3.png
 
 
