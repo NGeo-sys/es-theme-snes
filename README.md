@@ -8,8 +8,11 @@ Optimal use :
 =======
 
 List transition        - Fade 
+
 Game launch transition - Fast fade 
+
 Gamelist viewstytle    - Only Detailed so far ( will upade later ) 
+
 Region icons are available
 
 Screenshots 
