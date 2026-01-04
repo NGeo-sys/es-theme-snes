@@ -1,8 +1,11 @@
 # es-theme-snes
 Snes theme for Emulation Station / Retrobat 
-For use with Retrobat ( https://www.retrobat.org/ )
+=======
+
+-------------------------------------------------------------------------
 
 Optimal use :
+=======
 
 List transition        - Fade 
 Game launch transition - Fast fade 
