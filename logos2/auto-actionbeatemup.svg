@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="128.62265mm"
+   height="21.863279mm"
+   viewBox="0 0 128.62265 21.863279"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="auto-actionbeatemup.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="0.94867184"
+     inkscape:cx="175.50853"
+     inkscape:cy="154.95348"
+     inkscape:window-width="1920"
+     inkscape:window-height="1138"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-58.491035,-107.3907)">
+    <g
+       id="g11625">
+      <rect
+         style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:6.51116;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill"
+         id="rect11349"
+         width="40.87281"
+         height="13.108238"
+         x="62.912632"
+         y="111.24474" />
+      <rect
+         style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:5.10856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill"
+         id="rect11475"
+         width="22.311893"
+         height="14.781631"
+         x="157.75903"
+         y="111.24477" />
+      <rect
+         style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:5.10856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill"
+         id="rect11477"
+         width="22.311893"
+         height="14.781631"
+         x="119.65944"
+         y="111.24477" />
+      <g
+         aria-label="BEAT'EM ALL"
+         id="text1838"
+         style="font-size:25.4px;font-family:'Mario Kart DS';-inkscape-font-specification:'Mario Kart DS';stroke:#ffffff;stroke-width:4.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill">
+        <path
+           style="color:#000000;-inkscape-font-specification:'Fight Night';fill:#000000;stroke:#ffffff;stroke-width:4.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill"
+           d="m 73.143379,122.04305 q 0,2.05878 -1.823144,3.50986 -1.810743,1.45107 -4.378028,1.45107 H 60.741035 V 109.6407 h 6.201172 q 2.567285,0 4.378028,1.45108 1.823144,1.45107 1.823144,3.50986 v 1.24023 q 0,1.77354 -1.351855,3.10059 1.351855,1.32705 1.351855,3.10059 z m -4.960937,-7.44141 q 0,-0.5085 -0.372071,-0.86817 -0.359668,-0.37207 -0.868164,-0.37207 h -1.240234 v 3.72071 h 1.240234 q 0.508496,0 0.868164,-0.35967 0.372071,-0.37207 0.372071,-0.88057 z m -1.240235,8.68164 q 0.508496,0 0.868164,-0.35967 0.372071,-0.37207 0.372071,-0.88056 0,-0.5085 -0.372071,-0.86817 -0.359668,-0.37207 -0.868164,-0.37207 h -1.240234 v 2.48047 z"
+           id="path11017" />
+        <path
+           style="color:#000000;-inkscape-font-specification:'Fight Night';fill:#000000;stroke:#ffffff;stroke-width:4.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill"
+           d="m 84.305488,109.6407 v 3.7207 h -4.960937 v 3.72071 h 4.960937 l -1.240234,3.7207 h -3.720703 v 2.48047 h 4.960937 v 3.7207 H 74.383614 V 109.6407 Z"
+           id="path11019" />
+        <path
+           style="color:#000000;-inkscape-font-specification:'Fight Night';fill:#000000;stroke:#ffffff;stroke-width:4.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill"
+           d="m 90.667891,125.76375 -0.161231,1.24023 h -4.960937 l 3.720703,-17.36328 h 4.960937 l 3.720704,17.36328 h -4.960938 l -0.148828,-1.24023 z m 1.699121,-3.7207 -0.620117,-4.96094 -0.620117,4.96094 z"
+           id="path11021" />
+        <path
+           style="color:#000000;-inkscape-font-specification:'Fight Night';fill:#000000;stroke:#ffffff;stroke-width:4.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill"
+           d="m 106.62971,113.3614 v 13.64258 h -4.96094 V 113.3614 h -2.480469 v -3.7207 h 9.921879 v 3.7207 z"
+           id="path11023" />
+        <path
+           style="color:#000000;-inkscape-font-specification:'Fight Night';fill:#000000;stroke:#ffffff;stroke-width:4.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill"
+           d="m 115.31135,109.6407 v 3.7207 l -2.48047,2.48047 -2.48047,-2.48047 v -3.7207 z"
+           id="path11025" />
+        <path
+           style="color:#000000;-inkscape-font-specification:'Fight Night';fill:#000000;stroke:#ffffff;stroke-width:4.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill"
+           d="m 126.47346,109.6407 v 3.7207 h -4.96094 v 3.72071 h 4.96094 l -1.24024,3.7207 h -3.7207 v 2.48047 h 4.96094 v 3.7207 h -9.92188 V 109.6407 Z"
+           id="path11027" />
+        <path
+           style="color:#000000;-inkscape-font-specification:'Fight Night';fill:#000000;stroke:#ffffff;stroke-width:4.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill"
+           d="m 132.67463,117.08211 v 9.92187 h -4.96094 V 109.6407 h 7.44141 l 1.24023,9.92188 1.24024,-9.92188 h 7.4414 v 17.36328 h -4.96093 v -9.93427 l -1.24024,9.93427 h -4.96094 z"
+           id="path11029" />
+        <path
+           style="color:#000000;-inkscape-font-specification:'Fight Night';fill:#000000;stroke:#ffffff;stroke-width:4.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill"
+           d="m 157.73977,125.76375 -0.16123,1.24023 h -4.96094 l 3.7207,-17.36328 h 4.96094 l 3.7207,17.36328 h -4.96093 l -0.14883,-1.24023 z m 1.69912,-3.7207 -0.62012,-4.96094 -0.62012,4.96094 z"
+           id="path11031" />
+        <path
+           style="color:#000000;-inkscape-font-specification:'Fight Night';fill:#000000;stroke:#ffffff;stroke-width:4.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill"
+           d="M 166.26018,127.00398 V 109.6407 h 4.96094 v 13.64258 h 3.7207 v 3.7207 z"
+           id="path11033" />
+        <path
+           style="color:#000000;-inkscape-font-specification:'Fight Night';fill:#000000;stroke:#ffffff;stroke-width:4.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill"
+           d="M 176.18205,127.00398 V 109.6407 h 4.96094 v 13.64258 h 3.7207 v 3.7207 z"
+           id="path11035" />
+      </g>
+      <g
+         id="g11571"
+         transform="translate(4.73307,65.079681)">
+        <path
+           style="color:#000000;font-size:25.4px;font-family:'Mario Kart DS';-inkscape-font-specification:'Fight Night';fill:#000000;stroke-width:0.264583;-inkscape-stroke:none"
+           d="m 68.410311,56.963369 q 0,2.05878 -1.823144,3.50986 -1.810743,1.45107 -4.378028,1.45107 h -6.201172 v -17.36328 h 6.201172 q 2.567285,0 4.378028,1.45108 1.823144,1.45107 1.823144,3.50986 v 1.24023 q 0,1.77354 -1.351855,3.10059 1.351855,1.32705 1.351855,3.10059 z m -4.960937,-7.44141 q 0,-0.5085 -0.372071,-0.86817 -0.359668,-0.37207 -0.868164,-0.37207 h -1.240234 v 3.72071 h 1.240234 q 0.508496,0 0.868164,-0.35967 0.372071,-0.37207 0.372071,-0.88057 z m -1.240235,8.68164 q 0.508496,0 0.868164,-0.35967 0.372071,-0.37207 0.372071,-0.88056 0,-0.5085 -0.372071,-0.86817 -0.359668,-0.37207 -0.868164,-0.37207 h -1.240234 v 2.48047 z"
+           id="path11197" />
+        <path
+           style="color:#000000;font-size:25.4px;font-family:'Mario Kart DS';-inkscape-font-specification:'Fight Night';fill:#000000;stroke-width:0.264583;-inkscape-stroke:none"
+           d="m 79.57242,44.561019 v 3.7207 h -4.960937 v 3.72071 h 4.960937 l -1.240234,3.7207 h -3.720703 v 2.48047 h 4.960937 v 3.7207 h -9.921874 v -17.36328 z"
+           id="path11199" />
+        <path
+           style="color:#000000;font-size:25.4px;font-family:'Mario Kart DS';-inkscape-font-specification:'Fight Night';fill:#000000;stroke-width:0.264583;-inkscape-stroke:none"
+           d="m 85.934823,60.684069 -0.161231,1.24023 h -4.960937 l 3.720703,-17.36328 h 4.960937 l 3.720704,17.36328 h -4.960938 l -0.148828,-1.24023 z m 1.699121,-3.7207 -0.620117,-4.96094 -0.620117,4.96094 z"
+           id="path11201" />
+        <path
+           style="color:#000000;font-size:25.4px;font-family:'Mario Kart DS';-inkscape-font-specification:'Fight Night';fill:#000000;stroke-width:0.264583;-inkscape-stroke:none"
+           d="m 101.89664,48.281719 v 13.64258 h -4.960938 v -13.64258 h -2.480469 v -3.7207 h 9.921877 v 3.7207 z"
+           id="path11203" />
+        <path
+           style="color:#000000;font-size:25.4px;font-family:'Mario Kart DS';-inkscape-font-specification:'Fight Night';fill:#000000;stroke-width:0.264583;-inkscape-stroke:none"
+           d="m 110.57828,44.561019 v 3.7207 l -2.48047,2.48047 -2.48047,-2.48047 v -3.7207 z"
+           id="path11205" />
+        <path
+           style="color:#000000;font-size:25.4px;font-family:'Mario Kart DS';-inkscape-font-specification:'Fight Night';fill:#000000;stroke-width:0.264583;-inkscape-stroke:none"
+           d="m 121.74039,44.561019 v 3.7207 h -4.96094 v 3.72071 h 4.96094 l -1.24024,3.7207 h -3.7207 v 2.48047 h 4.96094 v 3.7207 h -9.92188 v -17.36328 z"
+           id="path11207" />
+        <path
+           style="color:#000000;font-size:25.4px;font-family:'Mario Kart DS';-inkscape-font-specification:'Fight Night';fill:#000000;stroke-width:0.264583;-inkscape-stroke:none"
+           d="m 127.94156,52.002429 v 9.92187 h -4.96094 v -17.36328 h 7.44141 l 1.24023,9.92188 1.24024,-9.92188 h 7.4414 v 17.36328 h -4.96093 v -9.93427 l -1.24024,9.93427 h -4.96094 z"
+           id="path11209" />
+        <path
+           style="color:#000000;font-size:25.4px;font-family:'Mario Kart DS';-inkscape-font-specification:'Fight Night';fill:#aa0000;stroke-width:0.264583;-inkscape-stroke:none"
+           d="m 153.0067,60.684069 -0.16123,1.24023 h -4.96094 l 3.7207,-17.36328 h 4.96094 l 3.7207,17.36328 h -4.96093 l -0.14883,-1.24023 z m 1.69912,-3.7207 -0.62012,-4.96094 -0.62012,4.96094 z"
+           id="path11211" />
+        <path
+           style="color:#000000;font-size:25.4px;font-family:'Mario Kart DS';-inkscape-font-specification:'Fight Night';fill:#aa0000;stroke-width:0.264583;-inkscape-stroke:none"
+           d="m 161.52711,61.924299 v -17.36328 h 4.96094 v 13.64258 h 3.7207 v 3.7207 z"
+           id="path11213" />
+        <path
+           style="color:#000000;font-size:25.4px;font-family:'Mario Kart DS';-inkscape-font-specification:'Fight Night';fill:#aa0000;stroke-width:0.264583;-inkscape-stroke:none"
+           d="m 171.44898,61.924299 v -17.36328 h 4.96094 v 13.64258 h 3.7207 v 3.7207 z"
+           id="path11215" />
+      </g>
+    </g>
+  </g>
+</svg>
