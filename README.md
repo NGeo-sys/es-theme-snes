@@ -1,4 +1,4 @@
-# es-theme-snes
+# ES-THEME-SNES
 Snes theme for Emulation Station / Retrobat 
 =======
 
