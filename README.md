@@ -9,6 +9,13 @@ Game launch transition - Fast fade
 Gamelist viewstytle    - Only Detailed so far ( will upade later ) 
 Region icons are available
 
+Screenshots 
+
+
+
+![Alt text]([https://github.com/NGeo-sys/es-theme-snes/blob/main/screenshots/1.png)
+
+
 License
 =======
 
