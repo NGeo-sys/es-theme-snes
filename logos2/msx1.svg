@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Layer_1"
+   data-name="Layer 1"
+   viewBox="0 0 260.918 114"
+   version="1.1"
+   sodipodi:docname="msx1.svg"
+   width="260.918"
+   height="114"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs15" />
+  <sodipodi:namedview
+     id="namedview13"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="1.113"
+     inkscape:cx="130.72776"
+     inkscape:cy="56.603774"
+     inkscape:window-width="1920"
+     inkscape:window-height="1138"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_1" />
+  <title
+     id="title2">logo</title>
+  <rect
+     x="3.4997716"
+     y="3.5"
+     width="253.91797"
+     height="107"
+     rx="3.5"
+     fill="#ffffff"
+     id="rect4" />
+  <path
+     d="M 253.918,7 V 107 H 7 V 7 h 246.918 m 0,-7 H 7 A 7,7 0 0 0 0,7 v 100 a 7,7 0 0 0 7,7 h 246.918 a 7,7 0 0 0 7,-7 V 7 a 7,7 0 0 0 -7,-7 z"
+     fill="#ffffff"
+     id="path6" />
+  <rect
+     x="6.9999242"
+     y="7.00001"
+     width="246.91811"
+     height="100"
+     fill="#231f20"
+     id="rect8" />
+  <path
+     d="m 234.38258,21.07651 -23.47421,34.28513 25.53239,37.45829 H 212.863 L 198.83268,72.76676 184.68953,92.868 H 161.267 c 0.63607,-1.32043 25.63977,-37.50639 25.63977,-37.50639 l -10.65715,-14.82729 -45.20949,0.0517 c -2.10818,0.16645 -4.69336,-0.47341 -5.75114,1.9048 a 3.31162,3.31162 0 0 0 -0.10358,2.74425 3.526,3.526 0 0 0 2.15987,2.00081 l 1.424,0.10737 H 146.865 a 22.67931,22.67931 0 0 1 18.9363,33.97439 23.55974,23.55974 0 0 1 -21.3624,11.60588 H 94.11073 c 0,0 -7.704,-27.80532 -7.75593,-27.85342 L 78.59905,92.92352 60.24352,92.92712 52.8576,64.96293 44.78373,92.86801 H 24.47529 c 0,0 18.67371,-67.20531 19.88692,-71.63981 h 17.14985 l 8.07009,29.96519 8.22915,-29.96519 16.82813,-0.0038 14.402,52.18222 h 33.55193 c 2.31515,-0.111 5.53659,0.52132 6.48719,-2.32273 a 3.4877,3.4877 0 0 0 -0.84342,-3.48409 4.37557,4.37557 0 0 0 -3.0067,-0.94682 L 127.19,66.64939 C 118.64272,66.38674 110.15111,60.79466 106.98515,52.5691 a 22.89661,22.89661 0 0 1 20.73374,-31.3928 l 59.1879,-0.0517 11.92589,17.1944 12.33815,-17.24624 z"
+     fill="#ffffff"
+     id="path10" />
+  <metadata
+     id="metadata832">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>logo</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>

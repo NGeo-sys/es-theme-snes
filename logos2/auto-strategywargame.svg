@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="201.19127mm"
+   height="35.119461mm"
+   viewBox="0 0 201.19127 35.119461"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="auto-strategywargame.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="0.67081229"
+     inkscape:cx="380.88151"
+     inkscape:cy="144.60081"
+     inkscape:window-width="1920"
+     inkscape:window-height="1138"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-4.4243888,-110.02374)">
+    <rect
+       style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:5.8284;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill"
+       id="rect5062"
+       width="14.325306"
+       height="30.965147"
+       x="40.938549"
+       y="112.47765" />
+    <rect
+       style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill"
+       id="rect4845"
+       width="9.8605576"
+       height="11.438247"
+       x="55.179649"
+       y="121.09665" />
+    <rect
+       style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:9.17086;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill"
+       id="rect4971"
+       width="40.625496"
+       height="14.593625"
+       x="81.638008"
+       y="115.27584" />
+    <rect
+       style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:7.43333;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill"
+       id="rect4973"
+       width="26.689777"
+       height="14.593625"
+       x="93.207191"
+       y="127.97585" />
+    <rect
+       style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:5.70395;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill"
+       id="rect4975"
+       width="9.8605576"
+       height="23.259018"
+       x="66.821327"
+       y="117.95317" />
+    <rect
+       style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:4.63866;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill"
+       id="rect4977"
+       width="9.8605576"
+       height="15.38247"
+       x="131.37962"
+       y="118.73012" />
+    <g
+       aria-label="WARGAME"
+       id="text2564"
+       style="font-size:43.6458px;line-height:1.25;font-family:'Rose Of Baltimore';-inkscape-font-specification:'Rose Of Baltimore';fill:#800000;stroke:#ffffff;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill">
+      <path
+         d="m 6.4243334,112.02374 7.6816606,31.11946 h 6.110413 l -6.590516,-31.11946 z m 31.0321646,21.51738 1.920416,9.60208 h 2.269581 l 7.681661,-31.11946 h -7.201557 z m -13.181032,-21.51738 -4.626455,21.51738 1.87677,9.60208 h 1.876769 l 4.451872,-19.33509 4.495517,19.33509 h 5.673955 l -6.546871,-31.11946 z"
+         style="font-family:Wargate;-inkscape-font-specification:'Wargate, Normal';stroke:#ffffff;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill"
+         id="path4621" />
+      <path
+         d="m 62.683641,112.02374 -1.87677,9.60208 2.138644,9.99489 h -4.36458 l -0.916562,4.58281 h 6.284996 l 1.483957,6.93968 h 7.201557 l -7.638015,-31.11946 z m -7.419787,0 -7.681661,31.11946 h 7.201557 l 6.590516,-31.11946 z"
+         style="font-family:Wargate;-inkscape-font-specification:'Wargate, Normal';stroke:#ffffff;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill"
+         id="path4623" />
+      <path
+         d="m 75.035334,143.1432 h 6.546871 v -24.57259 h -6.546871 z m 18.113008,-12.26447 3.404373,-3.44802 v -12.0026 l -3.404373,-3.40437 h -22.04113 l -1.309374,5.2375 h 20.208006 v 8.37999 h -7.114265 v 5.2375 h 2.880623 l 6.503224,12.26447 h 4.713747 v -4.58281 l -4.670101,-7.68166 z"
+         style="font-family:Wargate;-inkscape-font-specification:'Wargate, Normal';stroke:#ffffff;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill"
+         id="path4625" />
+      <path
+         d="m 100.04438,115.42811 v 24.26707 l 3.44801,3.44802 h 3.09886 v -31.11946 h -3.09886 z m 7.85624,-3.40437 v 5.2375 h 7.11427 v 5.76124 h 6.59051 v -7.59437 l -3.44802,-3.40437 z m 3.88448,19.8152 h 3.22979 v 6.06676 h -7.11427 v 5.2375 h 10.25676 l 3.44802,-3.44802 v -13.09374 h -11.04239 z"
+         style="font-family:Wargate;-inkscape-font-specification:'Wargate, Normal';stroke:#ffffff;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill"
+         id="path4627" />
+      <path
+         d="m 138.67086,112.02374 -1.87677,9.60208 2.13865,9.99489 h -4.36458 l -0.91657,4.58281 h 6.285 l 1.48396,6.93968 h 7.20155 l -7.63801,-31.11946 z m -7.41978,0 -7.68167,31.11946 h 7.20156 l 6.59052,-31.11946 z"
+         style="font-family:Wargate;-inkscape-font-specification:'Wargate, Normal';stroke:#ffffff;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill"
+         id="path4629" />
+      <path
+         d="m 151.02256,143.1432 h 6.54687 v -31.11946 h -6.54687 z m 7.85625,-29.54821 v 14.92686 l 4.6701,11.78437 h 3.6226 l 4.6701,-11.78437 v -14.92686 l -6.45958,15.58155 z m 14.27217,29.54821 h 6.54687 v -31.11946 h -6.54687 z"
+         style="font-family:Wargate;-inkscape-font-specification:'Wargate, Normal';stroke:#ffffff;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill"
+         id="path4631" />
+      <path
+         d="m 201.47707,112.02374 h -10.86781 v 5.2375 h 12.13353 z m -1.48396,12.91916 h -9.38385 v 5.2375 h 9.38385 z m -17.24009,18.2003 h 6.54687 v -27.19134 c 0,0 0,-3.92812 0,-3.92812 h -6.54687 z m 7.85624,0 h 11.74072 l 1.26573,-5.2375 h -13.00645 z"
+         style="font-family:Wargate;-inkscape-font-specification:'Wargate, Normal';stroke:#ffffff;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill"
+         id="path4633" />
+    </g>
+    <g
+       aria-label="WARGAME"
+       id="g4749"
+       style="font-size:43.6458px;line-height:1.25;font-family:'Rose Of Baltimore';-inkscape-font-specification:'Rose Of Baltimore';fill:#800000;stroke-width:0.454643">
+      <path
+         d="m 6.4243334,112.02374 7.6816606,31.11946 h 6.110413 l -6.590516,-31.11946 z m 31.0321646,21.51738 1.920416,9.60208 h 2.269581 l 7.681661,-31.11946 h -7.201557 z m -13.181032,-21.51738 -4.626455,21.51738 1.87677,9.60208 h 1.876769 l 4.451872,-19.33509 4.495517,19.33509 h 5.673955 l -6.546871,-31.11946 z"
+         style="font-family:Wargate;-inkscape-font-specification:'Wargate, Normal'"
+         id="path4735" />
+      <path
+         d="m 62.683641,112.02374 -1.87677,9.60208 2.138644,9.99489 h -4.36458 l -0.916562,4.58281 h 6.284996 l 1.483957,6.93968 h 7.201557 l -7.638015,-31.11946 z m -7.419787,0 -7.681661,31.11946 h 7.201557 l 6.590516,-31.11946 z"
+         style="font-family:Wargate;-inkscape-font-specification:'Wargate, Normal'"
+         id="path4737" />
+      <path
+         d="m 75.035334,143.1432 h 6.546871 v -24.57259 h -6.546871 z m 18.113008,-12.26447 3.404373,-3.44802 v -12.0026 l -3.404373,-3.40437 h -22.04113 l -1.309374,5.2375 h 20.208006 v 8.37999 h -7.114265 v 5.2375 h 2.880623 l 6.503224,12.26447 h 4.713747 v -4.58281 l -4.670101,-7.68166 z"
+         style="font-family:Wargate;-inkscape-font-specification:'Wargate, Normal'"
+         id="path4739" />
+      <path
+         d="m 100.04438,115.42811 v 24.26707 l 3.44801,3.44802 h 3.09886 v -31.11946 h -3.09886 z m 7.85624,-3.40437 v 5.2375 h 7.11427 v 5.76124 h 6.59051 v -7.59437 l -3.44802,-3.40437 z m 3.88448,19.8152 h 3.22979 v 6.06676 h -7.11427 v 5.2375 h 10.25676 l 3.44802,-3.44802 v -13.09374 h -11.04239 z"
+         style="font-family:Wargate;-inkscape-font-specification:'Wargate, Normal'"
+         id="path4741" />
+      <path
+         d="m 138.67086,112.02374 -1.87677,9.60208 2.13865,9.99489 h -4.36458 l -0.91657,4.58281 h 6.285 l 1.48396,6.93968 h 7.20155 l -7.63801,-31.11946 z m -7.41978,0 -7.68167,31.11946 h 7.20156 l 6.59052,-31.11946 z"
+         style="font-family:Wargate;-inkscape-font-specification:'Wargate, Normal'"
+         id="path4743" />
+      <path
+         d="m 151.02256,143.1432 h 6.54687 v -31.11946 h -6.54687 z m 7.85625,-29.54821 v 14.92686 l 4.6701,11.78437 h 3.6226 l 4.6701,-11.78437 v -14.92686 l -6.45958,15.58155 z m 14.27217,29.54821 h 6.54687 v -31.11946 h -6.54687 z"
+         style="font-family:Wargate;-inkscape-font-specification:'Wargate, Normal'"
+         id="path4745" />
+      <path
+         d="m 201.47707,112.02374 h -10.86781 v 5.2375 h 12.13353 z m -1.48396,12.91916 h -9.38385 v 5.2375 h 9.38385 z m -17.24009,18.2003 h 6.54687 v -27.19134 c 0,0 0,-3.92812 0,-3.92812 h -6.54687 z m 7.85624,0 h 11.74072 l 1.26573,-5.2375 h -13.00645 z"
+         style="font-family:Wargate;-inkscape-font-specification:'Wargate, Normal'"
+         id="path4747" />
+    </g>
+  </g>
+</svg>

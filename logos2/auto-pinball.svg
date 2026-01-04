@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="158.45732mm"
+   height="47.656487mm"
+   viewBox="0 0 158.45732 47.656487"
+   version="1.1"
+   id="svg3801"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="auto-pinball.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview3803"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="0.94867184"
+     inkscape:cx="283.02727"
+     inkscape:cy="-14.757474"
+     inkscape:window-width="1920"
+     inkscape:window-height="1138"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs3798" />
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-29.141649,-138.54456)">
+    <rect
+       style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:8.79394;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill"
+       id="rect7175"
+       width="10.057769"
+       height="34.314743"
+       x="111.56806"
+       y="145.22125" />
+    <rect
+       style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:3.39054;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill"
+       id="rect7340"
+       width="6.8038559"
+       height="7.5404687"
+       x="42.433228"
+       y="142.0463" />
+    <rect
+       style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:8.90573;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill"
+       id="rect7342"
+       width="8.6632757"
+       height="40.857601"
+       x="103.1014"
+       y="142.02518" />
+    <rect
+       style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:8.96632;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill"
+       id="rect7344"
+       width="8.6632757"
+       height="41.415398"
+       x="121.62224"
+       y="142.02518" />
+    <g
+       aria-label="PINBALL"
+       transform="matrix(1.2374544,0,0,0.80811059,0,69.023904)"
+       id="text4546"
+       style="font-size:65.9148px;line-height:1.25;font-family:'Rose Of Baltimore';-inkscape-font-specification:'Rose Of Baltimore';stroke:#ffffff;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill">
+      <path
+         d="m 42.555694,95.608627 q 0,1.516041 -0.527318,2.768422 -0.527319,1.186466 -1.516041,2.109271 -0.922807,0.85689 -2.175188,1.38421 -1.252381,0.46141 -2.702507,0.46141 v 40.60352 H 25.549675 V 88.885317 h 10.348624 q 1.384211,0 2.570678,0.527319 1.252381,0.527318 2.109273,1.450125 0.922807,0.922808 1.450126,2.175189 0.527318,1.186466 0.527318,2.570677 z m -3.097995,0.06592 q 0,-1.64787 -1.120552,-2.636592 -1.120552,-0.988722 -2.702507,-0.988722 v 7.184713 q 1.51604,0 2.636592,-0.922807 1.186467,-0.988722 1.186467,-2.636592 z"
+         style="font-family:'Pinball Whiz NF';-inkscape-font-specification:'Pinball Whiz NF, Normal';stroke:#ffffff;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill"
+         id="path6951" />
+      <path
+         d="M 44.928543,142.93546 V 88.885317 h 10.084965 v 54.050143 z"
+         style="font-family:'Pinball Whiz NF';-inkscape-font-specification:'Pinball Whiz NF, Normal';stroke:#ffffff;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill"
+         id="path6953" />
+      <path
+         d="m 70.437518,143.00137 v -40.60352 l -2.900251,-2.30702 v 42.84463 H 57.386387 V 88.028425 l 13.051131,10.414539 v -7.975692 h 3.097996 v 52.534098 z"
+         style="font-family:'Pinball Whiz NF';-inkscape-font-specification:'Pinball Whiz NF, Normal';stroke:#ffffff;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill"
+         id="path6955" />
+      <path
+         d="m 93.178008,135.68483 q 0,1.51604 -0.593234,2.83433 -0.527318,1.3183 -1.51604,2.30702 -0.988722,0.98872 -2.372933,1.58196 -1.318296,0.52732 -2.834337,0.52732 H 75.908329 V 88.885317 h 10.348624 q 1.384211,0 2.570678,0.527319 1.252381,0.527318 2.175188,1.450125 0.922807,0.922808 1.450126,2.175189 0.527318,1.186466 0.527318,2.570677 0,3.29574 -2.504762,5.273183 2.702507,2.10927 2.702507,5.60276 z M 89.816353,95.608627 q 0,-1.581955 -1.120552,-2.570677 -1.120552,-0.988722 -2.636592,-0.988722 v 7.184713 q 1.51604,0 2.636592,-0.988722 1.120552,-1.054637 1.120552,-2.636592 z m 0.197744,10.875943 q 0,-1.64787 -1.186466,-2.83434 -1.120552,-1.25238 -2.768422,-1.31829 v 37.50552 q 1.64787,-0.0659 2.768422,-1.25238 1.186466,-1.25238 1.186466,-2.90025 z"
+         style="font-family:'Pinball Whiz NF';-inkscape-font-specification:'Pinball Whiz NF, Normal';stroke:#ffffff;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill"
+         id="path6957" />
+      <path
+         d="m 102.5378,142.93546 v -40.60352 h -3.823055 v 40.60352 h -3.16391 v -46.7336 q 0,-1.51604 0.527318,-2.834336 0.593234,-1.384211 1.581956,-2.372933 0.988722,-0.988722 2.307018,-1.516041 1.384213,-0.593233 2.900253,-0.593233 h 2.63659 q 1.51604,0 2.83434,0.593233 1.38421,0.527319 2.37293,1.516041 0.98872,0.988722 1.51604,2.372933 0.59323,1.318296 0.59323,2.834336 v 46.7336 z m 0,-50.886232 q -1.64787,0.131829 -2.768418,1.318296 -1.054637,1.186466 -1.054637,2.834336 v 3.032081 h 3.823055 z"
+         style="font-family:'Pinball Whiz NF';-inkscape-font-specification:'Pinball Whiz NF, Normal';stroke:#ffffff;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill"
+         id="path6959" />
+      <path
+         d="M 120.20276,142.93546 V 88.885317 h 10.15088 v 50.952143 h 3.36165 v 3.098 z"
+         style="font-family:'Pinball Whiz NF';-inkscape-font-specification:'Pinball Whiz NF, Normal';stroke:#ffffff;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill"
+         id="path6961" />
+      <path
+         d="M 136.08817,142.93546 V 88.885317 h 10.15088 v 50.952143 h 3.36166 v 3.098 z"
+         style="font-family:'Pinball Whiz NF';-inkscape-font-specification:'Pinball Whiz NF, Normal';stroke:#ffffff;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill"
+         id="path6963" />
+    </g>
+    <g
+       aria-label="PINBALL"
+       transform="matrix(1.2374544,0,0,0.80811059,0,69.023904)"
+       id="g7079"
+       style="font-size:65.9148px;line-height:1.25;font-family:'Rose Of Baltimore';-inkscape-font-specification:'Rose Of Baltimore';fill:#5f005f;fill-opacity:1;stroke-width:0.686613">
+      <path
+         d="m 42.555694,95.608627 q 0,1.516041 -0.527318,2.768422 -0.527319,1.186466 -1.516041,2.109271 -0.922807,0.85689 -2.175188,1.38421 -1.252381,0.46141 -2.702507,0.46141 v 40.60352 H 25.549675 V 88.885317 h 10.348624 q 1.384211,0 2.570678,0.527319 1.252381,0.527318 2.109273,1.450125 0.922807,0.922808 1.450126,2.175189 0.527318,1.186466 0.527318,2.570677 z m -3.097995,0.06592 q 0,-1.64787 -1.120552,-2.636592 -1.120552,-0.988722 -2.702507,-0.988722 v 7.184713 q 1.51604,0 2.636592,-0.922807 1.186467,-0.988722 1.186467,-2.636592 z"
+         style="font-family:'Pinball Whiz NF';-inkscape-font-specification:'Pinball Whiz NF, Normal';fill:#5f005f;fill-opacity:1"
+         id="path7065" />
+      <path
+         d="M 44.928543,142.93546 V 88.885317 h 10.084965 v 54.050143 z"
+         style="font-family:'Pinball Whiz NF';-inkscape-font-specification:'Pinball Whiz NF, Normal';fill:#5f005f;fill-opacity:1"
+         id="path7067" />
+      <path
+         d="m 70.437518,143.00137 v -40.60352 l -2.900251,-2.30702 v 42.84463 H 57.386387 V 88.028425 l 13.051131,10.414539 v -7.975692 h 3.097996 v 52.534098 z"
+         style="font-family:'Pinball Whiz NF';-inkscape-font-specification:'Pinball Whiz NF, Normal';fill:#5f005f;fill-opacity:1"
+         id="path7069" />
+      <path
+         d="m 93.178008,135.68483 q 0,1.51604 -0.593234,2.83433 -0.527318,1.3183 -1.51604,2.30702 -0.988722,0.98872 -2.372933,1.58196 -1.318296,0.52732 -2.834337,0.52732 H 75.908329 V 88.885317 h 10.348624 q 1.384211,0 2.570678,0.527319 1.252381,0.527318 2.175188,1.450125 0.922807,0.922808 1.450126,2.175189 0.527318,1.186466 0.527318,2.570677 0,3.29574 -2.504762,5.273183 2.702507,2.10927 2.702507,5.60276 z M 89.816353,95.608627 q 0,-1.581955 -1.120552,-2.570677 -1.120552,-0.988722 -2.636592,-0.988722 v 7.184713 q 1.51604,0 2.636592,-0.988722 1.120552,-1.054637 1.120552,-2.636592 z m 0.197744,10.875943 q 0,-1.64787 -1.186466,-2.83434 -1.120552,-1.25238 -2.768422,-1.31829 v 37.50552 q 1.64787,-0.0659 2.768422,-1.25238 1.186466,-1.25238 1.186466,-2.90025 z"
+         style="font-family:'Pinball Whiz NF';-inkscape-font-specification:'Pinball Whiz NF, Normal';fill:#5f005f;fill-opacity:1"
+         id="path7071" />
+      <path
+         d="m 102.5378,142.93546 v -40.60352 h -3.823055 v 40.60352 h -3.16391 v -46.7336 q 0,-1.51604 0.527318,-2.834336 0.593234,-1.384211 1.581956,-2.372933 0.988722,-0.988722 2.307018,-1.516041 1.384213,-0.593233 2.900253,-0.593233 h 2.63659 q 1.51604,0 2.83434,0.593233 1.38421,0.527319 2.37293,1.516041 0.98872,0.988722 1.51604,2.372933 0.59323,1.318296 0.59323,2.834336 v 46.7336 z m 0,-50.886232 q -1.64787,0.131829 -2.768418,1.318296 -1.054637,1.186466 -1.054637,2.834336 v 3.032081 h 3.823055 z"
+         style="font-family:'Pinball Whiz NF';-inkscape-font-specification:'Pinball Whiz NF, Normal';fill:#5f005f;fill-opacity:1"
+         id="path7073" />
+      <path
+         d="M 120.20276,142.93546 V 88.885317 h 10.15088 v 50.952143 h 3.36165 v 3.098 z"
+         style="font-family:'Pinball Whiz NF';-inkscape-font-specification:'Pinball Whiz NF, Normal';fill:#5f005f;fill-opacity:1"
+         id="path7075" />
+      <path
+         d="M 136.08817,142.93546 V 88.885317 h 10.15088 v 50.952143 h 3.36166 v 3.098 z"
+         style="font-family:'Pinball Whiz NF';-inkscape-font-specification:'Pinball Whiz NF, Normal';fill:#5f005f;fill-opacity:1"
+         id="path7077" />
+    </g>
+    <g
+       aria-label="PINBALL"
+       transform="matrix(1.2374544,0,0,0.80811059,0,69.023904)"
+       id="g1415"
+       style="font-size:65.9148px;line-height:1.25;font-family:'Rose Of Baltimore';-inkscape-font-specification:'Rose Of Baltimore';fill:#5f005f;fill-opacity:1;stroke-width:0.686613">
+      <path
+         d="m 42.555694,95.608627 q 0,1.516041 -0.527318,2.768422 -0.527319,1.186466 -1.516041,2.109271 -0.922807,0.85689 -2.175188,1.38421 -1.252381,0.46141 -2.702507,0.46141 v 40.60352 H 25.549675 V 88.885317 h 10.348624 q 1.384211,0 2.570678,0.527319 1.252381,0.527318 2.109273,1.450125 0.922807,0.922808 1.450126,2.175189 0.527318,1.186466 0.527318,2.570677 z m -3.097995,0.06592 q 0,-1.64787 -1.120552,-2.636592 -1.120552,-0.988722 -2.702507,-0.988722 v 7.184713 q 1.51604,0 2.636592,-0.922807 1.186467,-0.988722 1.186467,-2.636592 z"
+         style="font-family:'Pinball Whiz NF';-inkscape-font-specification:'Pinball Whiz NF, Normal';fill:#5f005f;fill-opacity:1"
+         id="path1401" />
+      <path
+         d="M 44.928543,142.93546 V 88.885317 h 10.084965 v 54.050143 z"
+         style="font-family:'Pinball Whiz NF';-inkscape-font-specification:'Pinball Whiz NF, Normal';fill:#5f005f;fill-opacity:1"
+         id="path1403" />
+      <path
+         d="m 70.437518,143.00137 v -40.60352 l -2.900251,-2.30702 v 42.84463 H 57.386387 V 88.028425 l 13.051131,10.414539 v -7.975692 h 3.097996 v 52.534098 z"
+         style="font-family:'Pinball Whiz NF';-inkscape-font-specification:'Pinball Whiz NF, Normal';fill:#5f005f;fill-opacity:1"
+         id="path1405" />
+      <path
+         d="m 93.178008,135.68483 q 0,1.51604 -0.593234,2.83433 -0.527318,1.3183 -1.51604,2.30702 -0.988722,0.98872 -2.372933,1.58196 -1.318296,0.52732 -2.834337,0.52732 H 75.908329 V 88.885317 h 10.348624 q 1.384211,0 2.570678,0.527319 1.252381,0.527318 2.175188,1.450125 0.922807,0.922808 1.450126,2.175189 0.527318,1.186466 0.527318,2.570677 0,3.29574 -2.504762,5.273183 2.702507,2.10927 2.702507,5.60276 z M 89.816353,95.608627 q 0,-1.581955 -1.120552,-2.570677 -1.120552,-0.988722 -2.636592,-0.988722 v 7.184713 q 1.51604,0 2.636592,-0.988722 1.120552,-1.054637 1.120552,-2.636592 z m 0.197744,10.875943 q 0,-1.64787 -1.186466,-2.83434 -1.120552,-1.25238 -2.768422,-1.31829 v 37.50552 q 1.64787,-0.0659 2.768422,-1.25238 1.186466,-1.25238 1.186466,-2.90025 z"
+         style="font-family:'Pinball Whiz NF';-inkscape-font-specification:'Pinball Whiz NF, Normal';fill:#5f005f;fill-opacity:1"
+         id="path1407" />
+      <path
+         d="m 102.5378,142.93546 v -40.60352 h -3.823055 v 40.60352 h -3.16391 v -46.7336 q 0,-1.51604 0.527318,-2.834336 0.593234,-1.384211 1.581956,-2.372933 0.988722,-0.988722 2.307018,-1.516041 1.384213,-0.593233 2.900253,-0.593233 h 2.63659 q 1.51604,0 2.83434,0.593233 1.38421,0.527319 2.37293,1.516041 0.98872,0.988722 1.51604,2.372933 0.59323,1.318296 0.59323,2.834336 v 46.7336 z m 0,-50.886232 q -1.64787,0.131829 -2.768418,1.318296 -1.054637,1.186466 -1.054637,2.834336 v 3.032081 h 3.823055 z"
+         style="font-family:'Pinball Whiz NF';-inkscape-font-specification:'Pinball Whiz NF, Normal';fill:#5f005f;fill-opacity:1"
+         id="path1409" />
+      <path
+         d="M 120.20276,142.93546 V 88.885317 h 10.15088 v 50.952143 h 3.36165 v 3.098 z"
+         style="font-family:'Pinball Whiz NF';-inkscape-font-specification:'Pinball Whiz NF, Normal';fill:#5f005f;fill-opacity:1"
+         id="path1411" />
+      <path
+         d="M 136.08817,142.93546 V 88.885317 h 10.15088 v 50.952143 h 3.36166 v 3.098 z"
+         style="font-family:'Pinball Whiz NF';-inkscape-font-specification:'Pinball Whiz NF, Normal';fill:#5f005f;fill-opacity:1"
+         id="path1413" />
+    </g>
+  </g>
+</svg>

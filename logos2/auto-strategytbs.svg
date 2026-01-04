@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="203.83693mm"
+   height="35.21682mm"
+   viewBox="0 0 203.83693 35.21682"
+   version="1.1"
+   id="svg5726"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="auto-strategytbs.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview5728"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="0.94867184"
+     inkscape:cx="409.5199"
+     inkscape:cy="163.38632"
+     inkscape:window-width="1920"
+     inkscape:window-height="1138"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs5723" />
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-1.1553779,-114.91184)">
+    <rect
+       style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:3.85788;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill"
+       id="rect17659"
+       width="40.231075"
+       height="32.642666"
+       x="6.2749414"
+       y="116.23949" />
+    <rect
+       style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:4.4547;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill"
+       id="rect17785"
+       width="53.641434"
+       height="32.642666"
+       x="53.370804"
+       y="116.23949" />
+    <rect
+       style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:5.57492;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill"
+       id="rect17787"
+       width="84.011955"
+       height="32.642666"
+       x="116.34169"
+       y="116.23949" />
+    <g
+       aria-label="TURN BASED STRATEGY "
+       id="text6075"
+       style="font-size:33.7372px;line-height:1.25;font-family:'Rose Of Baltimore';-inkscape-font-specification:'Rose Of Baltimore';fill:#aa6b00;fill-opacity:1;stroke:#ffffff;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill">
+      <path
+         d="m 10.238872,135.66665 v 10.07339 l 1.26844,2.38862 H 7.2160323 V 121.44201 H 6.3923701 l -3.2369922,6.0951 V 116.91187 H 14.299527 v 10.62524 l -3.236992,-6.0951 h -0.823663 z"
+         style="font-family:'Shadow of Xizor';-inkscape-font-specification:'Shadow of Xizor, Normal';fill:#aa6b00;fill-opacity:1;stroke:#ffffff;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill"
+         id="path17395" />
+      <path
+         d="m 18.590806,135.66665 v 7.93187 h 2.56159 v -24.29803 l -1.26844,-2.38862 h 4.29128 v 28.82817 l -1.564958,2.38862 h -5.493827 l -1.548485,-2.38862 v -26.43955 l -1.268439,-2.38862 h 4.291279 z"
+         style="font-family:'Shadow of Xizor';-inkscape-font-specification:'Shadow of Xizor, Normal';fill:#aa6b00;fill-opacity:1;stroke:#ffffff;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill"
+         id="path17397" />
+      <path
+         d="m 31.110471,148.12866 -1.375516,-2.38862 v -9.61214 l 0.5848,-0.65069 2.635719,12.65145 h 3.953579 l -1.449646,-2.50393 -2.43804,-12.51967 2.298018,-2.2733 V 119.30049 L 33.7709,116.91187 h -8.327224 l 1.268439,2.38862 v 28.82817 z m -1.375516,-18.64771 v -8.03894 h 2.53688 v 7.47061 l -2.53688,2.38862 z"
+         style="font-family:'Shadow of Xizor';-inkscape-font-specification:'Shadow of Xizor, Normal';fill:#aa6b00;fill-opacity:1;stroke:#ffffff;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill"
+         id="path17399" />
+      <path
+         d="m 47.196592,135.21364 v 10.5264 l 1.383752,2.38862 h -4.414829 v -4.01947 l -3.294648,-10.60877 0.0082,12.23962 1.26844,2.38862 h -4.29128 v -28.82817 l -1.26844,-2.38862 h 5.073759 l 2.503933,8.74729 v -6.35867 l -1.26844,-2.38862 h 4.299517 z"
+         style="font-family:'Shadow of Xizor';-inkscape-font-specification:'Shadow of Xizor, Normal';fill:#aa6b00;fill-opacity:1;stroke:#ffffff;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill"
+         id="path17401" />
+      <path
+         d="m 60.111616,148.12866 h 0.930738 l 1.564958,-2.38862 v -10.18046 l -3.681769,-3.5088 3.681769,-4.14302 v -8.60727 l -1.548485,-2.38862 h -8.327224 l 1.26844,2.38862 v 26.43955 l -1.26844,2.38862 z m -3.09697,-9.75216 v -3.52527 l 2.53688,2.50393 v 6.24336 h -2.53688 z m 0.0082,-8.89555 v -8.03894 h 2.536879 v 5.40322 z"
+         style="font-family:'Shadow of Xizor';-inkscape-font-specification:'Shadow of Xizor, Normal';fill:#aa6b00;fill-opacity:1;stroke:#ffffff;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill"
+         id="path17403" />
+      <path
+         d="m 71.058087,116.91187 3.797082,28.82817 1.416699,2.38862 h -3.895922 l -0.922501,-5.46911 h -3.434671 l -0.543617,3.08049 0.881318,2.38862 h -4.480722 l 4.31599,-28.82817 -1.515539,-2.38862 z m -2.528643,21.99178 h 2.479223 l -1.26844,-9.02734 z"
+         style="font-family:'Shadow of Xizor';-inkscape-font-specification:'Shadow of Xizor, Normal';fill:#aa6b00;fill-opacity:1;stroke:#ffffff;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill"
+         id="path17405" />
+      <path
+         d="m 77.540303,135.03243 3.02284,2.44628 v 6.11981 h 2.53688 v -7.48709 l -5.55972,-5.27967 v -11.53127 l 1.548485,-2.38862 h 5.493827 l 1.564958,2.38862 v 10.7076 l -3.04755,-2.47098 v -6.0951 h -2.53688 v 7.47061 l 5.58443,5.29615 v 11.53127 l -1.564958,2.38862 h -5.493827 l -1.548485,-2.38862 z"
+         style="font-family:'Shadow of Xizor';-inkscape-font-specification:'Shadow of Xizor, Normal';fill:#aa6b00;fill-opacity:1;stroke:#ffffff;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill"
+         id="path17407" />
+      <path
+         d="m 97.291722,137.47047 v 8.26957 l 1.276677,2.38862 h -9.883946 v -28.82817 l -1.26844,-2.38862 h 8.310751 l 1.564958,2.38862 v 10.7076 l -3.04755,-2.47098 v -6.0951 h -2.536879 v 8.56608 h 2.182705 v 4.11832 h -2.190942 l 0.0082,9.47211 h 2.536879 v -8.56609 z"
+         style="font-family:'Shadow of Xizor';-inkscape-font-specification:'Shadow of Xizor, Normal';fill:#aa6b00;fill-opacity:1;stroke:#ffffff;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill"
+         id="path17409" />
+      <path
+         d="m 102.85144,135.66665 v 7.93187 h 2.53688 v -22.15651 h -2.53688 z m -3.022837,-2.1827 v -14.18346 l -1.26844,-2.38862 h 8.310747 l 1.56496,2.38862 v 26.43955 l -1.56496,2.38862 h -7.042307 z"
+         style="font-family:'Shadow of Xizor';-inkscape-font-specification:'Shadow of Xizor, Normal';fill:#aa6b00;fill-opacity:1;stroke:#ffffff;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill"
+         id="path17411" />
+      <path
+         d="m 115.12401,135.03243 3.02284,2.44628 v 6.11981 h 2.53688 v -7.48709 l -5.55972,-5.27967 v -11.53127 l 1.54849,-2.38862 h 5.49382 l 1.56496,2.38862 v 10.7076 l -3.04755,-2.47098 v -6.0951 h -2.53688 v 7.47061 l 5.58443,5.29615 v 11.53127 l -1.56496,2.38862 h -5.49382 l -1.54849,-2.38862 z"
+         style="font-family:'Shadow of Xizor';-inkscape-font-specification:'Shadow of Xizor, Normal';fill:#aa6b00;fill-opacity:1;stroke:#ffffff;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill"
+         id="path17413" />
+      <path
+         d="m 132.08322,135.66665 v 10.07339 l 1.26844,2.38862 h -4.29128 v -26.68665 h -0.82366 l -3.237,6.0951 v -10.62524 h 11.14415 v 10.62524 l -3.23699,-6.0951 h -0.82366 z"
+         style="font-family:'Shadow of Xizor';-inkscape-font-specification:'Shadow of Xizor, Normal';fill:#aa6b00;fill-opacity:1;stroke:#ffffff;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill"
+         id="path17415" />
+      <path
+         d="m 141.81067,148.12866 -1.37552,-2.38862 v -9.61214 l 0.5848,-0.65069 2.63572,12.65145 h 3.95358 l -1.44965,-2.50393 -2.43804,-12.51967 2.29802,-2.2733 v -11.53127 l -1.54848,-2.38862 h -8.32723 l 1.26844,2.38862 v 28.82817 z m -1.37552,-18.64771 v -8.03894 h 2.53688 v 7.47061 l -2.53688,2.38862 z"
+         style="font-family:'Shadow of Xizor';-inkscape-font-specification:'Shadow of Xizor, Normal';fill:#aa6b00;fill-opacity:1;stroke:#ffffff;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill"
+         id="path17417" />
+      <path
+         d="m 154.47036,116.91187 3.79708,28.82817 1.4167,2.38862 h -3.89592 l -0.92251,-5.46911 h -3.43467 l -0.54361,3.08049 0.88131,2.38862 h -4.48072 l 4.31599,-28.82817 -1.51554,-2.38862 z m -2.52865,21.99178 h 2.47923 l -1.26844,-9.02734 z"
+         style="font-family:'Shadow of Xizor';-inkscape-font-specification:'Shadow of Xizor, Normal';fill:#aa6b00;fill-opacity:1;stroke:#ffffff;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill"
+         id="path17419" />
+      <path
+         d="m 166.76762,135.66665 v 10.07339 l 1.26844,2.38862 h -4.29128 v -26.68665 h -0.82366 l -3.23699,6.0951 v -10.62524 h 11.14414 v 10.62524 l -3.23699,-6.0951 h -0.82366 z"
+         style="font-family:'Shadow of Xizor';-inkscape-font-specification:'Shadow of Xizor, Normal';fill:#aa6b00;fill-opacity:1;stroke:#ffffff;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill"
+         id="path17421" />
+      <path
+         d="m 180.70398,137.47047 v 8.26957 l 1.27668,2.38862 h -9.88395 v -28.82817 l -1.26843,-2.38862 h 8.31075 l 1.56495,2.38862 v 10.7076 l -3.04755,-2.47098 v -6.0951 h -2.53687 v 8.56608 h 2.1827 v 4.11832 h -2.19094 l 0.008,9.47211 h 2.53687 v -8.56609 z"
+         style="font-family:'Shadow of Xizor';-inkscape-font-specification:'Shadow of Xizor, Normal';fill:#aa6b00;fill-opacity:1;stroke:#ffffff;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill"
+         id="path17423" />
+      <path
+         d="m 191.84813,132.26493 v 13.47511 l 1.26844,2.38862 h -8.32722 l -1.54849,-2.38862 v -26.43955 l 1.54849,-2.38862 h 5.49383 l 1.56495,2.38862 v 10.7076 l -3.04755,-2.47098 v -6.0951 h -2.53688 v 22.15651 h 2.53688 v -8.56609 l -2.19917,-2.7675 z"
+         style="font-family:'Shadow of Xizor';-inkscape-font-specification:'Shadow of Xizor, Normal';fill:#aa6b00;fill-opacity:1;stroke:#ffffff;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill"
+         id="path17425" />
+      <path
+         d="m 197.16899,133.46748 -2.78398,-2.63572 v -11.53127 l -1.26844,-2.38862 h 4.29128 v 11.98428 l 1.27668,1.23549 0.0165,-0.0165 1.26844,-1.20255 v -9.61213 l -1.26844,-2.38862 h 4.29128 v 13.91989 l -2.79221,2.63572 v 12.27256 l 1.26844,2.38862 h -4.29128 z"
+         style="font-family:'Shadow of Xizor';-inkscape-font-specification:'Shadow of Xizor, Normal';fill:#aa6b00;fill-opacity:1;stroke:#ffffff;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill"
+         id="path17427" />
+    </g>
+    <g
+       aria-label="TURN BASED STRATEGY "
+       id="g17563"
+       style="font-size:33.7372px;line-height:1.25;font-family:'Rose Of Baltimore';-inkscape-font-specification:'Rose Of Baltimore';fill:#aa6b00;fill-opacity:1;stroke-width:0.351429">
+      <path
+         d="m 10.238872,135.66665 v 10.07339 l 1.26844,2.38862 H 7.2160323 V 121.44201 H 6.3923701 l -3.2369922,6.0951 V 116.91187 H 14.299527 v 10.62524 l -3.236992,-6.0951 h -0.823663 z"
+         style="font-family:'Shadow of Xizor';-inkscape-font-specification:'Shadow of Xizor, Normal';fill:#aa6b00;fill-opacity:1"
+         id="path17529" />
+      <path
+         d="m 18.590806,135.66665 v 7.93187 h 2.56159 v -24.29803 l -1.26844,-2.38862 h 4.29128 v 28.82817 l -1.564958,2.38862 h -5.493827 l -1.548485,-2.38862 v -26.43955 l -1.268439,-2.38862 h 4.291279 z"
+         style="font-family:'Shadow of Xizor';-inkscape-font-specification:'Shadow of Xizor, Normal';fill:#aa6b00;fill-opacity:1"
+         id="path17531" />
+      <path
+         d="m 31.110471,148.12866 -1.375516,-2.38862 v -9.61214 l 0.5848,-0.65069 2.635719,12.65145 h 3.953579 l -1.449646,-2.50393 -2.43804,-12.51967 2.298018,-2.2733 V 119.30049 L 33.7709,116.91187 h -8.327224 l 1.268439,2.38862 v 28.82817 z m -1.375516,-18.64771 v -8.03894 h 2.53688 v 7.47061 l -2.53688,2.38862 z"
+         style="font-family:'Shadow of Xizor';-inkscape-font-specification:'Shadow of Xizor, Normal';fill:#aa6b00;fill-opacity:1"
+         id="path17533" />
+      <path
+         d="m 47.196592,135.21364 v 10.5264 l 1.383752,2.38862 h -4.414829 v -4.01947 l -3.294648,-10.60877 0.0082,12.23962 1.26844,2.38862 h -4.29128 v -28.82817 l -1.26844,-2.38862 h 5.073759 l 2.503933,8.74729 v -6.35867 l -1.26844,-2.38862 h 4.299517 z"
+         style="font-family:'Shadow of Xizor';-inkscape-font-specification:'Shadow of Xizor, Normal';fill:#aa6b00;fill-opacity:1"
+         id="path17535" />
+      <path
+         d="m 60.111616,148.12866 h 0.930738 l 1.564958,-2.38862 v -10.18046 l -3.681769,-3.5088 3.681769,-4.14302 v -8.60727 l -1.548485,-2.38862 h -8.327224 l 1.26844,2.38862 v 26.43955 l -1.26844,2.38862 z m -3.09697,-9.75216 v -3.52527 l 2.53688,2.50393 v 6.24336 h -2.53688 z m 0.0082,-8.89555 v -8.03894 h 2.536879 v 5.40322 z"
+         style="font-family:'Shadow of Xizor';-inkscape-font-specification:'Shadow of Xizor, Normal';fill:#aa6b00;fill-opacity:1"
+         id="path17537" />
+      <path
+         d="m 71.058087,116.91187 3.797082,28.82817 1.416699,2.38862 h -3.895922 l -0.922501,-5.46911 h -3.434671 l -0.543617,3.08049 0.881318,2.38862 h -4.480722 l 4.31599,-28.82817 -1.515539,-2.38862 z m -2.528643,21.99178 h 2.479223 l -1.26844,-9.02734 z"
+         style="font-family:'Shadow of Xizor';-inkscape-font-specification:'Shadow of Xizor, Normal';fill:#aa6b00;fill-opacity:1"
+         id="path17539" />
+      <path
+         d="m 77.540303,135.03243 3.02284,2.44628 v 6.11981 h 2.53688 v -7.48709 l -5.55972,-5.27967 v -11.53127 l 1.548485,-2.38862 h 5.493827 l 1.564958,2.38862 v 10.7076 l -3.04755,-2.47098 v -6.0951 h -2.53688 v 7.47061 l 5.58443,5.29615 v 11.53127 l -1.564958,2.38862 h -5.493827 l -1.548485,-2.38862 z"
+         style="font-family:'Shadow of Xizor';-inkscape-font-specification:'Shadow of Xizor, Normal';fill:#aa6b00;fill-opacity:1"
+         id="path17541" />
+      <path
+         d="m 97.291722,137.47047 v 8.26957 l 1.276677,2.38862 h -9.883946 v -28.82817 l -1.26844,-2.38862 h 8.310751 l 1.564958,2.38862 v 10.7076 l -3.04755,-2.47098 v -6.0951 h -2.536879 v 8.56608 h 2.182705 v 4.11832 h -2.190942 l 0.0082,9.47211 h 2.536879 v -8.56609 z"
+         style="font-family:'Shadow of Xizor';-inkscape-font-specification:'Shadow of Xizor, Normal';fill:#aa6b00;fill-opacity:1"
+         id="path17543" />
+      <path
+         d="m 102.85144,135.66665 v 7.93187 h 2.53688 v -22.15651 h -2.53688 z m -3.022837,-2.1827 v -14.18346 l -1.26844,-2.38862 h 8.310747 l 1.56496,2.38862 v 26.43955 l -1.56496,2.38862 h -7.042307 z"
+         style="font-family:'Shadow of Xizor';-inkscape-font-specification:'Shadow of Xizor, Normal';fill:#aa6b00;fill-opacity:1"
+         id="path17545" />
+      <path
+         d="m 115.12401,135.03243 3.02284,2.44628 v 6.11981 h 2.53688 v -7.48709 l -5.55972,-5.27967 v -11.53127 l 1.54849,-2.38862 h 5.49382 l 1.56496,2.38862 v 10.7076 l -3.04755,-2.47098 v -6.0951 h -2.53688 v 7.47061 l 5.58443,5.29615 v 11.53127 l -1.56496,2.38862 h -5.49382 l -1.54849,-2.38862 z"
+         style="font-family:'Shadow of Xizor';-inkscape-font-specification:'Shadow of Xizor, Normal';fill:#aa6b00;fill-opacity:1"
+         id="path17547" />
+      <path
+         d="m 132.08322,135.66665 v 10.07339 l 1.26844,2.38862 h -4.29128 v -26.68665 h -0.82366 l -3.237,6.0951 v -10.62524 h 11.14415 v 10.62524 l -3.23699,-6.0951 h -0.82366 z"
+         style="font-family:'Shadow of Xizor';-inkscape-font-specification:'Shadow of Xizor, Normal';fill:#aa6b00;fill-opacity:1"
+         id="path17549" />
+      <path
+         d="m 141.81067,148.12866 -1.37552,-2.38862 v -9.61214 l 0.5848,-0.65069 2.63572,12.65145 h 3.95358 l -1.44965,-2.50393 -2.43804,-12.51967 2.29802,-2.2733 v -11.53127 l -1.54848,-2.38862 h -8.32723 l 1.26844,2.38862 v 28.82817 z m -1.37552,-18.64771 v -8.03894 h 2.53688 v 7.47061 l -2.53688,2.38862 z"
+         style="font-family:'Shadow of Xizor';-inkscape-font-specification:'Shadow of Xizor, Normal';fill:#aa6b00;fill-opacity:1"
+         id="path17551" />
+      <path
+         d="m 154.47036,116.91187 3.79708,28.82817 1.4167,2.38862 h -3.89592 l -0.92251,-5.46911 h -3.43467 l -0.54361,3.08049 0.88131,2.38862 h -4.48072 l 4.31599,-28.82817 -1.51554,-2.38862 z m -2.52865,21.99178 h 2.47923 l -1.26844,-9.02734 z"
+         style="font-family:'Shadow of Xizor';-inkscape-font-specification:'Shadow of Xizor, Normal';fill:#aa6b00;fill-opacity:1"
+         id="path17553" />
+      <path
+         d="m 166.76762,135.66665 v 10.07339 l 1.26844,2.38862 h -4.29128 v -26.68665 h -0.82366 l -3.23699,6.0951 v -10.62524 h 11.14414 v 10.62524 l -3.23699,-6.0951 h -0.82366 z"
+         style="font-family:'Shadow of Xizor';-inkscape-font-specification:'Shadow of Xizor, Normal';fill:#aa6b00;fill-opacity:1"
+         id="path17555" />
+      <path
+         d="m 180.70398,137.47047 v 8.26957 l 1.27668,2.38862 h -9.88395 v -28.82817 l -1.26843,-2.38862 h 8.31075 l 1.56495,2.38862 v 10.7076 l -3.04755,-2.47098 v -6.0951 h -2.53687 v 8.56608 h 2.1827 v 4.11832 h -2.19094 l 0.008,9.47211 h 2.53687 v -8.56609 z"
+         style="font-family:'Shadow of Xizor';-inkscape-font-specification:'Shadow of Xizor, Normal';fill:#aa6b00;fill-opacity:1"
+         id="path17557" />
+      <path
+         d="m 191.84813,132.26493 v 13.47511 l 1.26844,2.38862 h -8.32722 l -1.54849,-2.38862 v -26.43955 l 1.54849,-2.38862 h 5.49383 l 1.56495,2.38862 v 10.7076 l -3.04755,-2.47098 v -6.0951 h -2.53688 v 22.15651 h 2.53688 v -8.56609 l -2.19917,-2.7675 z"
+         style="font-family:'Shadow of Xizor';-inkscape-font-specification:'Shadow of Xizor, Normal';fill:#aa6b00;fill-opacity:1"
+         id="path17559" />
+      <path
+         d="m 197.16899,133.46748 -2.78398,-2.63572 v -11.53127 l -1.26844,-2.38862 h 4.29128 v 11.98428 l 1.27668,1.23549 0.0165,-0.0165 1.26844,-1.20255 v -9.61213 l -1.26844,-2.38862 h 4.29128 v 13.91989 l -2.79221,2.63572 v 12.27256 l 1.26844,2.38862 h -4.29128 z"
+         style="font-family:'Shadow of Xizor';-inkscape-font-specification:'Shadow of Xizor, Normal';fill:#aa6b00;fill-opacity:1"
+         id="path17561" />
+    </g>
+  </g>
+</svg>
